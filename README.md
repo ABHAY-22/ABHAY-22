@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Khare</h1>
-<h3 align="center">Hello, I'm Abhay Front-End Developer Crafting delightful user experiences with a focus on front-end development.developer from India</h3>
+<h3 align="center">Hello, I'm Abhay Front-End Developer Crafting delightful user experiences with a focus on front-end development.</h3>
 
 - 🌱 I’m currently learning **DSA,Web development**
 
