@@ -6,7 +6,7 @@
 - 💬 Ask me about **DSA,HTML,CSS,Javascript**
 
 - 📫 How to reach me **abhayera2013@gmail.com**
-- - 📫 Portfolio Link **https://abhay-22.github.io/**
+- 📫 Portfolio Link **https://abhay-22.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
