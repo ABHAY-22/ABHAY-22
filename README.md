@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay-22" alt="abhay-22" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Web development**
+- 🌱 I’m currently learning **DSA,Web development and AWS**
 
 - 👨‍💻 All of my projects are available at [https://abhay-22.github.io/](https://abhay-22.github.io/)
 
