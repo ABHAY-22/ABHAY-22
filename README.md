@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA,Web development and AWS**
 
-- 👨‍💻 All of my projects are available at [https://abhay-22.github.io/]
+
 
 - 💬 Ask me about **DSA,HTML,CSS,Javascript**
 
